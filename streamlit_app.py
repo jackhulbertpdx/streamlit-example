@@ -2,7 +2,7 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
-
+import streamlit.components.v1 as components
 """
 # Hey Ross, here's some data on pools in Austin from [the city's public data API]https://data.austintexas.gov/
 """
